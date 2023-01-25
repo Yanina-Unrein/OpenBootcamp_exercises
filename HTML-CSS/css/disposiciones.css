@@ -1,0 +1,12 @@
+.title-galeria{
+    font-family: sans-serif;
+}
+
+.galeria{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.galeria-img{
+    width: 300px;
+}
